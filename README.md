@@ -5,6 +5,3 @@ This project involves large datasets that are too big to store directly in this 
 To import the data from DVC, run the following command:
 ```bash
 dvc import-url gs://hft-d-a-t-a Data
-
-
-
